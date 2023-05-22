@@ -1,0 +1,25 @@
+Aplikasi perpustakaan
+Dibuat dengan
+ 1. Codeigniter
+ 2. Bootstraps
+ 3. Jquery
+
+Fitur
+ 1. Managemen menu user
+ 2. CRUD ( buku, member, petugas, admin )
+ 3. Cetak kartu member
+ 4. Pinjam dan pengembalian buku
+ 5. rating buku
+ 6. Login dengan verifikasi recaptcha
+ 7. Verifikasi member register dengan email
+ 8. Laporan pinjam dan pengembalian buku dengan petugas yang mencatat
+ 
+ semua password  1234
+ Username
+ admin :
+ wpamin5@gmail.com
+ 
+ NB : 
+ 1. Untuk user member harus mendaftar terlebih dahulu
+ 2. Untuk petugas sementara belum ada username
+ 3. Kekurangan dalam aplikasi akan segera diupdate
